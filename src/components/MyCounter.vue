@@ -112,6 +112,6 @@ button {
   border-radius: 40px;
 }
 .Inc-dec {
-  margin: 15px;
+  margin: 16px;
 }
 </style>
