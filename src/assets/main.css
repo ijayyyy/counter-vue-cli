@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    font-family: poppins, sans-serif;
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    margin: 0;
+    background: url("../images/love.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    min-height: 100vh;
+    
+}
+
+header {
+       padding: 40px 0 70px;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        flex-wrap: wrap;
+      
+    
+}
+.navbar-brand {
+   font-size: 20px;
+}
+nav .nav-link {
+    list-style-type: none;
+    padding: 8px;
+}
+
+nav .nav-link li {
+    display: inline-block;
+    color: #efefef;
+   
+}
+
+nav .nav-link li a {
+   background-color: #efefef;
+}
+
+
