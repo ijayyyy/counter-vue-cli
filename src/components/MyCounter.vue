@@ -66,7 +66,6 @@ body {
   font-size: 20px;
   font-weight: bold;
   margin: 10px;
- 
   
 }
 .counter-state {
@@ -81,7 +80,7 @@ button {
   padding: 20px 25px;
   margin: 5px 0;
   margin-right: 7px;
-  border-radius: 30px;
+  border-radius: 10px;
   border: 2px solid #e5e5e5;
   box-shadow: 0 10px 10px -8px rgb(0 0 0 / 78%);
 }
@@ -97,7 +96,7 @@ button {
 }
 .reset {
   font-size: 15px;
-  padding: 7px;
+  padding: 10px;
   margin: 10px;
 }
 .back {
@@ -105,11 +104,11 @@ button {
 }
 .input {
   padding: 10px;
-  border-radius: 40px;
+  border-radius: 10px;
 }
 .update {
   padding: 10px;
-  border-radius: 40px;
+  border-radius: 10px;
 }
 .Inc-dec {
   margin: 16px;
